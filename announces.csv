@@ -1,0 +1,4 @@
+id,location,location_area,seller_type,type,partitioning,comfort,price,rooms_count,useful_surface,built_surface,construction_year,real_estate_type,height_regime,level,max_level,kitchens_count,bathrooms_count,garages_count,parking_lots_count,balconies_count
+101,"Bucuresti, Sector 6, zona Drumul Taberei",Drumul Taberei,agency,apartament,decomandat,lux,37400,2,65,65,2018,bloc de apartamente,S+P+6E,2,6,1,1,,1,1
+102,"Bucuresti, Sector 6, zona Drumul Taberei",Drumul Taberei,agency,apartament,decomandat,lux,25000,1,35,40,2017,bloc de apartamente,S+P+6E,1,8,1,1,0,1,1
+103,"Bucuresti, Sector 6, zona Drumul Taberei",Drumul Taberei,agency,apartament,decomandat,lux,35000,2,68,70,2017,bloc de apartamente,S+P+6E,3,8,1,1,0,1,1
